@@ -21,12 +21,12 @@ University student of Business Management passionate about the world of Technolo
 
 ## 💻 PC Spcecs 
 
-►AMD Ryzen 7 5800X Eight-Core Processor
-►NVIDIA GeForce GTX 1070 Ti
-►X470 AORUS GAMING 5 WIFI
-►Vengeance RGB DDR4 3200 4x8GB (32GB)
-►Western Digital Disco Ssd Blue 500gb x4
-►Fuente Poder 850W 80Plus Gold Modular
+►AMD Ryzen 7 5800X Eight-Core Processor  
+►NVIDIA GeForce GTX 1070 Ti  
+►X470 AORUS GAMING 5 WIFI  
+►Vengeance RGB DDR4 3200 4x8GB (32GB)  
+►Western Digital Disco Ssd Blue 500gb x4  
+►Fuente Poder 850W 80Plus Gold Modular  
 
 
 ## 🦾 Motivation
