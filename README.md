@@ -6,7 +6,7 @@ University student of Business Management passionate about the world of Technolo
 
 - Teacher assistant in IT / Excel 💻  
 - Excel Private Techer 🟩
-- Music Produccer 🎧
+- Music Producer 🎧
 - Gamer & Streamer👾 
 - 3D Printing - Crealty Ender 3📍
 
